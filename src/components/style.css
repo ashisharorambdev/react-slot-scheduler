@@ -1,0 +1,4 @@
+.MuiTableCell-root,
+.MuiDataGrid-cell {
+    border: 1px solid !important;
+}
